@@ -74,8 +74,21 @@ Pong is a very simple game and functions just like the one you're used to. The l
 
 Platform game was an attempt at learning how to use physics with video games. Pressing and holding `up` on your keyboard will cause your character to jump and using the other directional keys will allow you to navigate through the various levels. 
 
-![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/platform_game.png "Platform Game")
+Level 1: 
 
+![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/level1.png "Platform Game - Level 1")
+
+Level 2: 
+
+![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/platform_game.png "Platform Game - Level 2")
+
+Level 3: 
+
+![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/level3.png "Platform Game - Level 3")
+
+End:
+
+![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/end.png "Platform Game - End")
 
 ##Ball Game
 
