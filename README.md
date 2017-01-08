@@ -6,9 +6,7 @@
 These projects do not use current technology, reflect a good programming methodology or understanding, or use modern subject matter. I simply put thse on GitHub as a friendly reminder to myself of where I came from as well as a `trophy` of sorts to demonstrate how long computer programming has been an important part of my life. 
 
 ##Summary
-This repository is a collection of my homework, projects, and labs from my computer programming class in high school around 2008. These projects all use Game Maker 7.
-
-#Game Maker
+This repository is a collection of my homework, projects, and labs from my computer programming class in high school around 2008. These projects all use Game Maker 7. 
 
 Using Game Maker, I created four different games. Unfortunately, they were written in Game Maker 7 which won't run on modern operating systems and the games fail to import into newer versions of Game Maker Studio. In order for me to get these screenshots it was necessary for me to spin up a Windows XP VM and install an older version of Game Maker.
 
