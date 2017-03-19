@@ -1,6 +1,6 @@
-#High School Programming Projects - Circa 2008-2009
+# High School Programming Projects - Circa 2008-2009
 
-##Foreward
+## Foreward
 **PLEASE BE AWARE THAT I WAS 14 YEARS OLD WHILE MAKING THESE PROJECTS**
 
 These projects do not use current technology, reflect a good programming methodology or understanding, or use modern subject matter. I simply put thse on GitHub as a friendly reminder to myself of where I came from as well as a `trophy` of sorts to demonstrate how long computer programming has been an important part of my life. 
@@ -10,7 +10,7 @@ This repository is a collection of my homework, projects, and labs from my compu
 
 Using Game Maker, I created four different games. Unfortunately, they were written in Game Maker 7 which won't run on modern operating systems and the games fail to import into newer versions of Game Maker Studio. In order for me to get these screenshots it was necessary for me to spin up a Windows XP VM and install an older version of Game Maker.
 
-##Maze Game
+## Maze Game
 
 A puzzle game heavily themed after The Legend of Zelda: A Link to the Past. The objective is to navigate through the maze while avoiding contact with the various enemies and grab the key. Once you have grabbed the key, you can unlock the door and advance to the next level.
 
@@ -61,14 +61,14 @@ When you've cleared all of the levels, a final splash screen is displayed where 
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/credits.png "Credits Screen")
 
-##Pong
+## Pong
 
 Pong is a very simple game and functions just like the one you're used to. The left paddle is controlled by `w` and `s` and the right paddle is controlled with `up` and `down`. As a point is made the score will increase for the player denoted at the top of the screen and the ball will reset in the middle. Clicking the `Quit Pong` option on the top right will exit the game.
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/pong.png "Pong Game")
 
 
-##Platform Game
+## Platform Game
 
 Platform game was an attempt at learning how to use physics with video games. Pressing and holding `up` on your keyboard will cause your character to jump and using the other directional keys will allow you to navigate through the various levels. 
 
@@ -88,7 +88,7 @@ End:
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Game-Maker-High-School-Projects/master/Screenshots/end.png "Platform Game - End")
 
-##Ball Game
+## Ball Game
 
 Ball game was my first game that I made and is very simple. You click on the balls as they bounce around the screen rapidly and for each one you successfully click you will gain a point. Your score is displayed on the top left of the window.
 
